@@ -7,8 +7,11 @@
   I’m currently a Data Science & Society MSc student at Tilburg University with a background in architecture and a focus on building data-driven solutions with real-world impact.
 
 💻 At the moment, I’m working as a Data Science Intern at Arcadis (Cost & Data Management group), where I’m:
+
 •	Analyzing and structuring project data for construction and infrastructure projects
+
 •	Designing dashboards and visualizations to make insights accessible
+
 •	Applying machine learning and sustainability methods to support smarter, more resilient infrastructure
 
 🌍 I’m passionate about human-centered technology, sustainability, and lifelong learning, and I enjoy exploring how data can drive meaningful change in society.
